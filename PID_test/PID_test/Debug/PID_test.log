@@ -1,0 +1,4 @@
+﻿  PID_test.cpp
+C:\Users\cy\Desktop\GitHub\VS2019_PID\PID_test\PID_test\PID_test.cpp(17,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\cy\Desktop\GitHub\VS2019_PID\PID_test\PID_test\PID_test.cpp(19,15): warning C4305: “=”: 从“double”到“float”截断
+  PID_test.vcxproj -> C:\Users\cy\Desktop\GitHub\VS2019_PID\PID_test\Debug\PID_test.exe
